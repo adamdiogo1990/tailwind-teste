@@ -1,0 +1,8 @@
+{
+    "products": [
+      { "id": 1, "contract": "M063592DR2", "acc": "Code 5928MD01", "trava": "Code 5928MD01", "associations": "4" },
+      { "id": 2, "contract": "M063592DR2", "acc": "Code 5928MD01", "trava": "Code 5928MD01", "associations": "2" },
+      { "id": 3, "contract": "M063592DR2", "acc": "Code 5928MD01", "trava": "Code 5928MD01", "associations": "4" },
+      { "id": 4, "contract": "M063592DR2", "acc": "Code 5928MD01", "trava": "Code 5928MD01", "associations": "1" }
+    ]
+  }
